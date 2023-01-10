@@ -1,2 +1,2 @@
 # docs
-The repo to put my library docs.
+The site to put my library docs.
