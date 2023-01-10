@@ -1,2 +1,2 @@
-# docs.tianscar.com
+# docs
 The repository to put my library docs.
