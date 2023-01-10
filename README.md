@@ -1,2 +1,2 @@
 # docs
-The repository to put my library docs.
+The repo to put my library docs.
