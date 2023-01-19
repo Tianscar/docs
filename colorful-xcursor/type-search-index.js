@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.tianscar.awt.x11","l":"ColorfulXCursor"}];updateSearchResults();

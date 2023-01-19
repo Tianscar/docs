@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.tianscar.android.graphics","c":"BmpEncoder","l":"compress(Bitmap, OutputStream)","url":"compress(android.graphics.Bitmap,java.io.OutputStream)"}]
